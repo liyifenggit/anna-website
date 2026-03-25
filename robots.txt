@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://musical.dpdns.org/sitemap.xml
